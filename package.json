@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-wa6ap",
+  "version": "1.0.1",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Sebastian Avendaño <siabarrales@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siabarrales/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siabarrales/random-messages/issues"
+  },
+  "homepage": "https://github.com/siabarrales/random-messages#readme"
+}
